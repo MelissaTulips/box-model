@@ -1,0 +1,19 @@
+.box {
+    width:200px;
+    height: 200px;
+    background-color: gold;
+
+    border: 5px solid black;
+
+    padding: 10px 20px 30px; 
+/* it just cancles out the previus ones */
+
+
+    padding: 10px; 
+    margin: 30px;
+
+
+    /* box-sizing: content-box; */
+    box-sizing: border-box;
+}
+/* px vs em vs rem*/
